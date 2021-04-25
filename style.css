@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(54, 52, 58);
+}
+div {
+    text-align: center
+}
+table {
+    border: solid rgb(255, 255, 255) 1px;
+}
+tr {
+    background: rgb(133, 135, 141);
+}
+th {
+    border: black solid 1px;
+    text-align: center;
+    background-color: gray;
+}
+td {
+    border: solid black 1px;
+    text-align: center;
+    background: #ffffff;
+}
+input {
+    text-align: right;
+    background-color: white;
+}
+textarea {
+    background-color: white;
+}
+
+.A {
+    background: rgb(133, 135, 141);
+}
+select {
+    background-color: white;
+}
+
+form {
+    margin-top: 10%;
+    margin-left: 35%;
+}
