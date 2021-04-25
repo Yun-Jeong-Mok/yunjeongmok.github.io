@@ -39,3 +39,10 @@ form {
     margin-top: 10%;
     margin-left: 35%;
 }
+@media (max-width: 768px) {
+    form {
+  margin: 0;
+    padding: 0;
+    width: 100%;
+}
+}
