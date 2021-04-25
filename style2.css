@@ -381,6 +381,9 @@ footer {
         height: auto;
         width: auto;
     }
+    .A4 img {
+        max-height: 400px;
+    }
   
     
 
